@@ -6,12 +6,13 @@ brew "mkcert"
 brew "ffmpeg"
 
 # Other Taps
+tap "drud/ddev"
 brew "drud/ddev/ddev"
 
 
 # Cask-based Installs
 
-cask_args appdir: "~/Applications", require_sha: true
+cask_args appdir: "~/Applications"
 
 cask "firefox"
 cask "google-chrome"
