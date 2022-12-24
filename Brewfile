@@ -9,7 +9,6 @@ brew "ffmpeg"
 tap "drud/ddev"
 brew "drud/ddev/ddev"
 
-
 # Cask-based Installs
 
 cask_args appdir: "~/Applications"
@@ -30,3 +29,11 @@ cask "tableplus"
 # App Store
 
 mas "Wipr", id: 1320666476
+
+# Fonts
+
+tap "homebrew/cask-fonts"
+cask "font-ibm-plex"
+cask "font-jetbrains-mono"
+cask "font-ia-writer-mono"
+cask "font-sf-mono"
