@@ -11,7 +11,7 @@ brew "drud/ddev/ddev"
 
 # Cask-based Installs
 
-cask_args appdir: "~/Applications"
+cask_args appdir: "~/Applications", greedy: true
 
 cask "firefox"
 cask "google-chrome"
