@@ -1,10 +1,10 @@
 # Standard Installs
-brew "fish"
 brew "colima"
+brew "docker"
+brew "ffmpeg"
+brew "fish"
 brew "gh"
 brew "mkcert"
-brew "ffmpeg"
-brew "docker"
 
 # Other Taps
 tap "drud/ddev"
@@ -14,19 +14,19 @@ brew "drud/ddev/ddev"
 
 cask_args appdir: "~/Applications", greedy: true
 
-cask "firefox"
-cask "google-chrome"
-cask "dropbox"
-cask "visual-studio-code"
-cask "discord"
-cask "slack"
-cask "github"
-cask "iterm2"
-cask "phpstorm"
 cask "1password"
+cask "discord"
+cask "dropbox"
+cask "firefox"
+cask "github"
+cask "google-chrome"
+cask "iterm2"
 cask "ngrok"
+cask "phpstorm"
+cask "slack"
 cask "tableplus"
 cask "tower"
+cask "visual-studio-code"
 
 # App Store
 
