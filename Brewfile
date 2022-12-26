@@ -4,6 +4,7 @@ brew "colima"
 brew "gh"
 brew "mkcert"
 brew "ffmpeg"
+brew "docker"
 
 # Other Taps
 tap "drud/ddev"
