@@ -25,6 +25,7 @@ cask "phpstorm"
 cask "1password"
 cask "ngrok"
 cask "tableplus"
+cask "tower"
 
 # App Store
 
