@@ -4,6 +4,7 @@ brew "docker"
 brew "ffmpeg"
 brew "fish"
 brew "gh"
+brew "jq"
 brew "mkcert"
 
 # Other Taps
