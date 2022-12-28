@@ -6,6 +6,7 @@ brew "fish"
 brew "gh"
 brew "jq"
 brew "mkcert"
+brew "node"
 
 # Other Taps
 tap "drud/ddev"
