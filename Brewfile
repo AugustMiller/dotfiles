@@ -34,6 +34,7 @@ cask "visual-studio-code"
 # App Store
 
 mas "Wipr", id: 1320666476
+mas "Little Ipsum", id: 405772121
 
 # Fonts
 
