@@ -10,7 +10,7 @@ install: brew config
 
 # Install or update, only when necessary
 brew: always
-	brew bundle check || brew bundle install
+	brew bundle check || brew bundle
 
 # Apply configuration files
 config: always
