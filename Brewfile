@@ -17,6 +17,7 @@ brew "drud/ddev/ddev"
 cask_args appdir: "~/Applications", greedy: true
 
 cask "1password"
+cask "adobe-creative-cloud"
 cask "discord"
 cask "dropbox"
 cask "firefox"
