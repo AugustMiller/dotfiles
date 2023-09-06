@@ -7,10 +7,10 @@ brew "gh"
 brew "jq"
 brew "mkcert"
 brew "node"
+brew "ddev/ddev/ddev"
 
 # Other Taps
-tap "drud/ddev"
-brew "drud/ddev/ddev"
+# ...
 
 # Cask-based Installs
 
