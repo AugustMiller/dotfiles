@@ -14,7 +14,7 @@ brew "ddev/ddev/ddev"
 
 # Cask-based Installs
 
-cask_args appdir: "~/Applications", greedy: true
+cask_args appdir: "~/Applications"
 
 cask "1password"
 cask "adobe-creative-cloud"
