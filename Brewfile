@@ -1,5 +1,6 @@
 # Standard Installs
 brew "colima"
+brew "ddev/ddev/ddev"
 brew "docker"
 brew "ffmpeg"
 brew "fish"
@@ -7,7 +8,6 @@ brew "gh"
 brew "jq"
 brew "mkcert"
 brew "node"
-brew "ddev/ddev/ddev"
 
 # Other Taps
 # ...
