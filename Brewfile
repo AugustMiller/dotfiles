@@ -30,6 +30,7 @@ cask "slack"
 cask "tableplus"
 cask "tower"
 cask "visual-studio-code"
+cask "vlc"
 
 # App Store
 
