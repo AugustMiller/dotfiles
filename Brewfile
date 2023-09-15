@@ -8,6 +8,7 @@ brew "gh"
 brew "jq"
 brew "mkcert"
 brew "node"
+brew "stripe/stripe-cli/stripe"
 
 # Other Taps
 # ...
