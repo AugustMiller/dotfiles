@@ -1,6 +1,6 @@
 # Standard Installs
 brew "colima"
-brew "ddev/ddev/ddev"
+brew "ddev"
 brew "docker"
 brew "ffmpeg"
 brew "fish"
