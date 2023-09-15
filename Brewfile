@@ -7,7 +7,7 @@ brew "fish"
 brew "gh"
 brew "jq"
 brew "mkcert"
-brew "node"
+brew "nvm"
 brew "stripe/stripe-cli/stripe"
 
 # Other Taps
