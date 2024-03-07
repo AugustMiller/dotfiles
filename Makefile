@@ -15,7 +15,6 @@ brew: always
 # Apply configuration files
 config: always
 	@echo "Installing configuration files..."
-	install ./config/fish/*.fish ~/.config/fish/conf.d/
 
 # .PHONY equivalent target
 always:
