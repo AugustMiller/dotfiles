@@ -33,6 +33,7 @@ cask "tableplus"
 cask "tower"
 cask "visual-studio-code"
 cask "vlc"
+cask "zoom"
 
 # App Store
 
