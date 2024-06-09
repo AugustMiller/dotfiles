@@ -39,7 +39,6 @@ mas "Little Ipsum", id: 405772121
 
 # Fonts
 
-tap "homebrew/cask-fonts"
 cask "font-ibm-plex"
 cask "font-jetbrains-mono"
 cask "font-ia-writer-mono"
