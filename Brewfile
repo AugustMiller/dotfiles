@@ -1,13 +1,14 @@
 # Standard Installs
 brew "colima"
-brew "ddev/ddev/ddev"
-brew "docker"
+brew "ddev"
 brew "ffmpeg"
 brew "fish"
 brew "gh"
+brew "git"
 brew "jq"
 brew "mkcert"
 brew "node"
+brew "stripe/stripe-cli/stripe"
 
 # Other Taps
 # ...
@@ -24,13 +25,19 @@ cask "firefox"
 cask "github"
 cask "google-chrome"
 cask "iterm2"
+cask "karabiner-elements"
+cask "keybase"
+cask "linear-linear"
+cask "minecraft"
 cask "ngrok"
+cask "notion"
 cask "phpstorm"
 cask "slack"
 cask "tableplus"
 cask "tower"
 cask "visual-studio-code"
 cask "vlc"
+cask "zoom"
 
 # App Store
 
@@ -43,3 +50,5 @@ cask "font-ibm-plex"
 cask "font-jetbrains-mono"
 cask "font-ia-writer-mono"
 cask "font-sf-mono"
+cask "font-geist"
+cask "font-geist-mono"
