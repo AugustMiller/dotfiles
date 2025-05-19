@@ -1,6 +1,5 @@
 # Standard Installs
 brew "colima"
-brew "ddev"
 brew "ffmpeg"
 brew "fish"
 brew "gh"
@@ -11,7 +10,8 @@ brew "node"
 brew "stripe/stripe-cli/stripe"
 
 # Other Taps
-# ...
+tap "ddev/ddev"
+brew "ddev"
 
 # Cask-based Installs
 
