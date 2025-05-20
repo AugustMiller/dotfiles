@@ -45,7 +45,7 @@ cask "zoom"
 
 # App Store
 
-mas "Wipr", id: 1320666476
+mas "Wipr 2", id: 1662217862
 mas "Little Ipsum", id: 405772121
 
 # Fonts
