@@ -41,6 +41,7 @@ cask "slack"
 cask "tableplus"
 cask "tower"
 cask "visual-studio-code"
+cask "vivaldi"
 cask "vlc"
 cask "zoom"
 
