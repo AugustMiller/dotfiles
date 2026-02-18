@@ -9,6 +9,7 @@ brew "jq"
 brew "mkcert"
 brew "node"
 brew "stripe/stripe-cli/stripe"
+brew "wireguard-tools"
 
 # Other Taps
 tap "ddev/ddev"
