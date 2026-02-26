@@ -1,6 +1,7 @@
 # Standard Installs
 brew "colima"
 brew "docker-compose"
+brew "docker-buildx"
 brew "ffmpeg"
 brew "fish"
 brew "gh"
